@@ -1,0 +1,23 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Volume_S4mini</string>
+    <string name="action_open">Открыть</string>
+    <string name="action_save">Сохранить</string>
+    <string name="tit_speaker">Громкость динамика</string>
+    <string name="tit_cur">Текущая</string>
+    <string name="tit_set">Установить</string>
+    <string name="tit_vol">Громкость %</string>
+    <string name="tit_headphone_vol">Громкость наушников</string>
+    <string name="tit_phone1">Наушник 1 %</string>
+    <string name="reboot_mes">Чтобы изменения вступили в силу нужно перегрузить устройство</string>
+    <string name="exit_mes">Выход</string>
+    <string name="tit_phone2">Наушник 2 %</string>
+    <string name="probel1">                      </string>
+    <string name="probel2">        </string>
+    <string name="s68">68.0</string>
+    <string name="s76">76.0</string>
+    <string name="s60">60.0</string>
+    <string name="s56">56.0</string>
+    <string name="NewBtn">Кнопка</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Volume_S4mini</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="tit_speaker">Speaker Volume</string>
+    <string name="tit_cur">Current</string>
+    <string name="tit_set">Set</string>
+    <string name="tit_vol">Volume %</string>
+    <string name="tit_headphone_vol">Headphones Volume</string>
+    <string name="tit_phone1">Headphone 1 %</string>
+    <string name="reboot_mes">To effect changes you need reboot the device.</string>
+    <string name="exit_mes">Exit</string>
+    <string name="tit_phone2">Headphone 2 %</string>
+    <string name="probel1">                      </string>
+    <string name="probel2">        </string>
+    <string name="s68">68.0</string>
+    <string name="s76">76.0</string>
+    <string name="s60">60.0</string>
+    <string name="s56">56.0</string>
+    <string name="NewBtn">New Button</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
